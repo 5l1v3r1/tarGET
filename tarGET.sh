@@ -1,8 +1,7 @@
-#~/bin/bash
+#!/usr/bin/env bash
 # Target Gift Card Balance Checker
 # Description: Checks the balance of a list of Target gift cards.
-# Author: Caleb Gross
-# FILENAME=target_gift_cards_$(date +%s).txt
+# Author:      Caleb Gross
 
 CARDS_FILE=$1
 i=0
